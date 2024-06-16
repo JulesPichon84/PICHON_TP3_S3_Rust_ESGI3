@@ -35,12 +35,12 @@
           |___exercice4.rs
 
 ## Lors de votre arrivée dans la racine du projet, vous trouverez plusieurs fichiers et dossiers:
-  1- Le dossier **src** contient l'ensemble des exercices du TP:<br>
-        - **main.rs** --> Création du menu dans le terminal et appel des exercices.<br>
-        - **exercice1.rs** --> Exercice 3.1<br>
-        - **exercice2.rs** --> Exercice 3.2<br>
-        - **exercice3.rs** --> Exercice 3.3<br>
-        - **exercice4.rs** --> Exercice 3.4<br>
+1- Le dossier **src** contient l'ensemble des exercices du TP:
+  - **main.rs** --> Création du menu dans le terminal et appel des exercices.<br>
+  - **exercice1.rs** --> Exercice 3.1<br>
+  - **exercice2.rs** --> Exercice 3.2<br>
+  - **exercice3.rs** --> Exercice 3.3<br>
+  - **exercice4.rs** --> Exercice 3.4<br>
 
 ## Pour démarrer le programme:
 Sous VSCode:<br>
